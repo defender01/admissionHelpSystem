@@ -1,0 +1,22 @@
+name*Khulna University Of Engineering And Technology
+group*SCIENCE
+division*Khulna
+fee*0-5000
+sciencegpa*3.5
+commercegpa
+artsgpa
+residential*residential*non-residential*dual-residential
+Subject
+Civil Engineering
+Urban and Regional Planning
+Architecture
+Electrical & Electronic Engineering
+Computer Science & Engineering
+Electronics and Communication Engineering
+Biomedical Engineering
+Material Science and Engineering
+Mechanical Engineering
+Industrial Engineering and Management
+Leather Engineering
+Textile Engineering
+Energy Science and Engineering

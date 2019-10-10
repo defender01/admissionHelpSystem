@@ -1,0 +1,66 @@
+name*Chittagong University 
+group*SCIENCE*COMMERCE*ARTS
+division*Chittagong
+fee*0-5000
+sciencegpa*3.5
+commercegpa*3.5
+artsgpa*3.5
+residential*residential*non-residential*dual-residential
+subject
+Arabic
+Bangla
+Bangladesh Studies
+Drama
+English
+History
+Institute of Education and Research
+Institute of Fine Arts
+Institute of Modern Language
+Islamic History and Culture
+Islamic Studies
+Music
+Nazrul Research Center
+Pali (Oriental Language)
+Persian Language and Literature
+Philosophy
+Sanskrit
+Biochemistry and Molecular Biology
+Botany
+Genetic Engineering and Biotechnology
+Geography and Environmental Studies
+Microbiology
+Pharmacy
+Psychology
+Soil Science
+Zoology
+Accounting
+Banking and Insurance
+Bureau of Business Research
+Center for Business Administration
+Finance
+Human Resource Management
+Management
+Marketing
+Physical Education and Sports Science
+Computer Science and Engineering
+Electrical and Electronic Engineering
+Law
+Applied Chemistry and Chemical Engineering
+Chemistry
+Institute of Forestry and Environmental Science
+Institute of Marine Sciences and Fisheries
+Jamal Nazrul Islam Research Center for Mathematical and Physical Sciences
+Mathematics
+Physics
+Statistics
+Anthropology
+Center for Asian Studies
+Communication and Journalism
+Criminology and Police Science
+Development Studies
+Economics
+International Relations
+Political Science
+Public Administration
+Social Science Research Institute
+Sociology

@@ -1,0 +1,42 @@
+name*Jahangirnagar University
+group*SCIENCE*COMMERCE*ARTS
+division*Dhaka
+fee*0-5000
+sciencegpa*3.5
+commercegpa*3.5
+artsgpa*3.5
+residential*residential
+Subject
+Computer Science and Engineering
+Environmental sciences
+Physics
+Chemistry
+Statistics
+Mathematics
+Geological Science
+Botany
+Zoology
+Biochemistry & Molecular Biology
+Microbiology
+Pharmacy
+Public Health & Informatics
+Biotechnology & Genetic Engineering
+Anthropology
+Economics
+Government and Politics
+Geography and Environment
+Public Administration
+Urban and Regional Planning
+Archaeology
+Bangla
+Drama and Dramatics
+English
+Fine Arts
+History
+International Relations
+Journalism & Media Studies
+Philosophy
+Accounting and Information Systems
+Finance & Banking
+Marketing
+Management Studies

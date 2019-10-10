@@ -1,0 +1,35 @@
+name Shahjalal University Of Science And Technology
+group SCIENCE ARTS
+division Sylhet
+fee 0-5000
+sciencegpa 3.5
+commercegpa
+artsgpa 3.5
+Subject
+Forestry And Environmental Science
+Architecture
+Chemical Engineering & Polymer Science
+Civil & Environmental Engineering
+Computer Science & Engineering
+Electrical & Electronic Engineering
+Food Engineering & Tea Technology
+Industrial & Production Engineering
+Mechanical Engineering
+Petroleum & Mining Engineering
+Software Engineering
+Bio-Chemistry and Molecular Biology
+Genetic Engineering and Biotechnology
+Chemistry
+Geography and Environment
+Mathematics
+Physics
+Statistics
+Oceanography
+Anthropology
+Bangla
+Economics
+English
+Political Studies
+Public Administration
+Social work
+Sociology

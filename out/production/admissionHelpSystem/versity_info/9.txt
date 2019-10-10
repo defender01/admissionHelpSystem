@@ -1,0 +1,52 @@
+name*Rajshahi University
+group*SCIENCE*COMMERCE*ARTS
+division*Rajshahi
+fee*0-5000
+sciencegpa*3.5
+commercegpa*3.5
+artsgpa*3.5
+residential*residential*dual-residential
+Subject
+Geography and Environmental Studies
+Psychology
+Botany
+Zoology
+Geology & Mining
+Genetic Engineering & Biotechnology
+Clinical Psychology
+Law
+Law and Land Administration
+Information and Communication Engineering
+Computer Science & Engineering
+Applied Physics & Electronic Engineering
+Applied Chemistry & Chemical Engineering
+Material Science and Engineering
+Electrical and Electronic Engineering
+Economics
+Political Science
+Social Work
+Sociology
+Mass Communication and Journalism
+Information Science & Library Management
+Public Administration
+Anthropology
+Folklore
+International Relations
+Finance
+Accounting & Information Systems
+Marketing
+Management Studies
+Banking & Insurance
+Mathematics
+Physics
+Chemistry
+Statistics
+Biochemistry & Molecular Biology
+Pharmacy
+Population Science & Human Resource Development
+Applied Mathematics
+Physical Education and Sports Sciences
+Agronomy and Agricultural Extension
+Crop Science and Technology
+Fisheries
+Veterinary & Animal Science

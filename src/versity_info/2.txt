@@ -1,0 +1,21 @@
+name*Bangladesh university of Engineering And Technology
+group*SCIENCE
+division*Dhaka
+fee*0-5000
+sciencegpa*4.5
+commercegpa
+artsgpa
+residential*residential*non-residential*dual-residential
+Subject 
+Architecture
+Urban and Regional Planning
+Mechanical Engineering
+Industrial and Production Engineering
+Naval Architecture and Marine Engineering
+Civil Engineering
+Water Resources Engineering
+Mechanical Engineering
+Industrial and Production Engineering
+Naval Architecture and Marine Engineering
+Chemical Engineering
+Materials and Metallurgical Engineering

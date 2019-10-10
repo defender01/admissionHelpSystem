@@ -1,0 +1,24 @@
+name*Mustafizur Rahman
+regno*1111365793
+rollno*150808
+pass*987654321
+group*SCIENCE
+division*Dhaka*Chottogram*Rajshahi*Khulna
+gender*male
+residential*non-residential
+gpa*5
+fee*0-5000
+banMarks*89
+engMarks*83
+phyMarks*87
+chemMarks*90
+hMathMarks
+ictMarks
+bioMarks
+bmMarks
+acMarks
+mktMarks
+fnMarks
+ecmMarks
+geoMarks
+subject*Applied Mathematics*Biomedical Physics and Technology*Chemistry*Mathematics*Physics*Statistics*Physics*Statistics*Geology*Meteorology

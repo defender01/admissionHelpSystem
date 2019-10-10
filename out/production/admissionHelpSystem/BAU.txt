@@ -1,0 +1,53 @@
+name Bangladesh Agricultural University
+group SCIENCE
+division Dhaka
+fee 0-5000
+sciencegpa 3.5
+commercegpa
+artsgpa
+Subject
+Anatomy and Histology
+Physiology
+Microbiology and Hygiene
+Pharmacology
+Parasitology
+Pathology
+Medicine
+Surgery and Obstetrics
+Agronomy
+Soil Science
+Entomology
+Horticulture
+Plant Pathology
+Crop Botany
+Genetics and Plant Breeding
+Agricultural Extension Education
+Agricultural Chemistry
+Biochemistry and Molecular Biology
+Physics
+Chemistry
+Languages
+Agroforestry
+Biotechnology
+Environmental Science
+Seed Science and Technology
+Food Safety and management
+Farm Structure and Environmental Engineering
+Farm Power and Machinery
+Irrigation and Water Management
+Food Technology and Rural Industries
+Computer Science and Mathematics
+Animal Breeding and Genetics
+Animal Science
+Animal Nutrition
+Poultry Science
+Dairy Science
+Agricultural Economics
+Agricultural Finance
+Agricultural Statistics
+Agribusiness and Marketing
+Rural Sociology
+Fisheries, Biology and Genetics
+Aquaculture
+Fisheries Management
+Fisheries Technology

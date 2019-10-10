@@ -1,0 +1,24 @@
+name*Md Fahim
+regno*1111365794
+rollno*150809
+pass*123456789
+group*SCIENCE
+division*Dhaka*Chottogram*Sylhet
+gender*male
+residential*residential
+gpa*3
+fee*0-5000
+banMarks*70
+engMarks
+phynMarks
+chemMarks
+hMathMarks
+ictMarks
+bioMarks
+bmMarks
+acMarks
+mktMarks
+fnMarks
+ecmMarks
+geoMarks
+subject*Applied Mathematics*Biomedical Physics and Technology*Chemistry*Mathematics*Physics*Statistics

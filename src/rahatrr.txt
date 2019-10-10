@@ -1,0 +1,22 @@
+group SCIENCE COMMERCE ARTS
+division Dhaka
+fee 0-5000
+Subject 
+Criminology
+Arabic
+Bengali
+English
+Persian Language and Literature
+History
+Philosophy
+Islamic Studies
+Pali and Buddhist Studies
+Sanskrit
+Urdu
+Theater and Performance Studies
+Linguistics
+Music
+Islamic History and Culture
+World Religions and Culture
+Information Science and Library Management
+

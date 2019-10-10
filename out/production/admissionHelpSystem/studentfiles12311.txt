@@ -1,0 +1,22 @@
+name
+regno 123
+rollno 11
+pass 123456789
+group
+division
+gender
+fee
+banMarks
+engMarks
+phyMarks
+chemMarks
+hMathMarks
+ictMarks
+bioMarks
+bmMarks
+acMarks
+mktMarks
+fnMarks
+ecmMarks
+geoMarks
+subject

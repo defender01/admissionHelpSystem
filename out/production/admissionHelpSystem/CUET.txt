@@ -1,0 +1,19 @@
+name Chittagong University Of Engineering And Technology
+group SCIENCE
+division Chittagong
+fee 0-5000
+sciencegpa 3.5
+commercegpa
+artsgpa
+Subject
+Civil Engineering
+Civil & Water Recources Engineering
+Urban and Regional Planning
+Architecture
+Electrical & Electronic Engineering
+Computer Science & Engineering
+Electronics and Telecommunication Engineering
+Mechanical Engineering
+Energy Science and Engineering
+Petroleum & Mining Engineering
+Mechatronics & Industrial Engineering

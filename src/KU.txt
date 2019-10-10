@@ -1,0 +1,75 @@
+name Khulna University 
+group SCIENCE COMMERCE ARTS
+division Khulna
+fee 0-5000
+sciencegpa 3.5
+commercegpa 3.5
+artsgpa 3.5
+Subject 
+Criminology
+Arabic
+Bengali
+English
+Persian Language and Literature
+History
+Philosophy
+Islamic Studies
+Pali and Buddhist Studies
+Sanskrit
+Urdu
+Theater and Performance Studies
+Linguistics
+Music
+Islamic History and Culture
+World Religions and Culture
+Information Science and Library Management
+Botany
+Soil, Water and Environment
+Microbiology
+Biochemistry and Molecular Biology
+Fisheries
+Genetic Engineering and Bio-technology
+Psychology
+Clinical Psychology
+Zoology
+Educational and Counseling Psychology
+Electrical & Electronic Engineering
+Robotics and Mechatronics Engineering
+Applied Chemistry and Chemical Engineering
+Computer Science and Engineering
+Nuclear Engineering
+Crafts
+Drawing and Painting
+Graphic Design
+Printmaking
+Oriental Art
+Sculpture
+History of Art
+Ceramics
+Law
+Pharmacy
+Applied Mathematics
+Physics
+Mathematics
+Statistics
+Anthropology
+Communication Disorders
+Criminology
+Development Studies
+Economics
+International Relations
+Sociology
+Mass Communication and Journalism
+Population Sciences
+Political Science
+Public Administration
+Peace and Conflict Studies
+Women's and Gender Studies
+Television and Film Studies
+Printing and Publication Studies
+Japanese Studies
+Geology
+Geography and Environment
+Oceanography
+Disaster Science and Management
+
